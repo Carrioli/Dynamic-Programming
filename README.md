@@ -1,2 +1,2 @@
 # Dynamic-Programming
-Programming assignment to learn more about the Dynamic Programming paradigm.
+Programming assignment intended to teach more about the Dynamic Programming paradigm.
